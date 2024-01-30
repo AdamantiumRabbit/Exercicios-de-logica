@@ -1,5 +1,5 @@
 # Exercício de logica 1
-## Enunciado  
+## Enunciado (https://github.com/AdamantiumRabbit/exerc-cio-de-logica1/blob/main/Lista%20de%20ofertas) 
 Parabéns!! você foi contratado por uma corretora para montar um sistema de livro de ofertas de vendas e compras.
 Um livro de ofertas nada mais é que uma lista de um mesmo produto organizadas pelo seu preço.
 
