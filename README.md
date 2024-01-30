@@ -7,5 +7,6 @@ A cada negocicão de compra ou venda os livros de ofertas são atualizados, pode
 
 ## Exercicios fonte dos exercicios:
 https://github.com/intelitrader/quero-ser/tree/master/exercicios
+  
 Lista de ofertas
 Menor Caminho do array
